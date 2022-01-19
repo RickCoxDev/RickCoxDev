@@ -1,0 +1,27 @@
+name: Update Profile README
+on:
+  schedule:
+    - cron: '0 23 * * SUN' # Runs at 11pm on Sunday
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update my profile README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in my blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://rickcoxdev.tech/rss.xml/"
+      - name: Pull in books I'm currently reading
+        uses: zwacky/goodreads-profile-workflow@main
+        with:
+          goodreads_user_id: "57242420"
+          shelf: "currently-reading"
+          template: "- [$title]($url) by $author"
+      - name: Pull in Wakatime data
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
