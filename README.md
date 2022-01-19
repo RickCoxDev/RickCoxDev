@@ -15,6 +15,7 @@
 
 ## :books: Books I'm Currently Reading
 <!-- GOODREADS-LIST:START -->
+- [Your Best Year Ever: A 5-Step Plan for Achieving Your Most Important Goals](https://www.goodreads.com/review/show/2666126616?utm_medium=api&utm_source=rss) by Michael Hyatt
 <!-- GOODREADS-LIST:END -->
 
 **Have a laugh on me**
