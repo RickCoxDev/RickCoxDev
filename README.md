@@ -8,7 +8,10 @@
 ## :bar_chart: Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Bash         1 hr 13 mins    █████████████████▒░░░░░░░   69.00 % 
+YAML         25 mins         ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+Other        4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 ```
 <!--END_SECTION:waka-->
 
