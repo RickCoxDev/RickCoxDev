@@ -8,10 +8,11 @@
 ## :bar_chart: Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
-Bash         1 hr 13 mins    █████████████████▒░░░░░░░   69.00 % 
-YAML         25 mins         ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-Other        4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Python     1 hr 31 mins    ████████████▓░░░░░░░░░░░░   50.79 % 
+YAML       52 mins         ███████▒░░░░░░░░░░░░░░░░░   29.10 % 
+JSON       13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Markdown   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Other      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 ```
 <!--END_SECTION:waka-->
 
