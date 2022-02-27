@@ -7,13 +7,15 @@
 
 ## :bar_chart: Weekly Development Breakdown
 <!--START_SECTION:waka-->
+
 ```text
-Python     1 hr 31 mins    ████████████▓░░░░░░░░░░░░   50.79 % 
-YAML       52 mins         ███████▒░░░░░░░░░░░░░░░░░   29.10 % 
-JSON       13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Markdown   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Other      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Python     1 hr 48 mins    ████████████████░░░░░░░░░   63.83 %
+Markdown   48 mins         ███████░░░░░░░░░░░░░░░░░░   28.20 %
+YAML       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+Text       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
+
 <!--END_SECTION:waka-->
 
 ## :memo: Latest Blog Posts
