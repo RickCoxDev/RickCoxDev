@@ -9,7 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python        35 mins         ██████████░░░░░░░░░░░░░░░   39.93 %
+C             17 mins         █████░░░░░░░░░░░░░░░░░░░░   19.70 %
+YAML          17 mins         █████░░░░░░░░░░░░░░░░░░░░   19.51 %
+Markdown      10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
+INI           3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+JavaScript    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
 
 <!--END_SECTION:waka-->
