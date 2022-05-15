@@ -26,7 +26,7 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 ## :books: Books I'm Currently Reading
 <!-- GOODREADS-LIST:START -->
 - [Pragmatic Thinking and Learning: Refactor Your Wetware (Pragmatic Programmers)](https://www.goodreads.com/review/show/4445756231?utm_medium=api&utm_source=rss) by Andy Hunt
-- [Storm Front (The Dresden Files, #1)](https://www.goodreads.com/review/show/4707561394?utm_medium=api&utm_source=rss) by Jim Butcher
+- [Fool Moon (The Dresden Files, #2)](https://www.goodreads.com/review/show/4716976764?utm_medium=api&utm_source=rss) by Jim Butcher
 <!-- GOODREADS-LIST:END -->
 
 **Have a laugh on me**
