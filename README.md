@@ -9,9 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   1 hr 4 mins     ████████████████████████░   96.56 %
-YAML       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Other      5 mins          ████████▓░░░░░░░░░░░░░░░░   35.26 %
 ```
 
 <!--END_SECTION:waka-->
