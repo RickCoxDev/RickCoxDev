@@ -21,6 +21,8 @@ Other      16 mins         █▓░░░░░░░░░░░░░░░�
 
 ## :books: Books I'm Currently Reading
 <!-- GOODREADS-LIST:START -->
+- [Return of the Lazy Dungeon Master](https://www.goodreads.com/review/show/4968073597?utm_medium=api&utm_source=rss) by Michael E. Shea
+- [White Night (The Dresden Files, #9)](https://www.goodreads.com/review/show/5063538556?utm_medium=api&utm_source=rss) by Jim Butcher
 - [Pragmatic Thinking and Learning: Refactor Your Wetware (Pragmatic Programmers)](https://www.goodreads.com/review/show/4445756231?utm_medium=api&utm_source=rss) by Andy Hunt
 <!-- GOODREADS-LIST:END -->
 
