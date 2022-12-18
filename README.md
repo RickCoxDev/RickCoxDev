@@ -9,9 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Cheetah      37 mins         █████████▒░░░░░░░░░░░░░░░   37.08 %
-Text         26 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.34 %
-Other        25 mins         ██████░░░░░░░░░░░░░░░░░░░   24.51 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
