@@ -20,7 +20,7 @@ No activity tracked
 
 ## :books: Books I'm Currently Reading
 <!-- GOODREADS-LIST:START -->
-- [Ghost Story (The Dresden Files, #13)](https://www.goodreads.com/review/show/5227491013?utm_medium=api&utm_source=rss) by Jim Butcher
+- [Cold Days (The Dresden Files, #14)](https://www.goodreads.com/review/show/5326015261?utm_medium=api&utm_source=rss) by Jim Butcher
 - [Return of the Lazy Dungeon Master](https://www.goodreads.com/review/show/4968073597?utm_medium=api&utm_source=rss) by Michael E. Shea
 <!-- GOODREADS-LIST:END -->
 
