@@ -20,7 +20,7 @@ No activity tracked
 
 ## :books: Books I'm Currently Reading
 <!-- GOODREADS-LIST:START -->
-- [Cold Days (The Dresden Files, #14)](https://www.goodreads.com/review/show/5326015261?utm_medium=api&utm_source=rss) by Jim Butcher
+- [Skin Game (The Dresden Files, #15)](https://www.goodreads.com/review/show/5369879464?utm_medium=api&utm_source=rss) by Jim Butcher
 - [Return of the Lazy Dungeon Master](https://www.goodreads.com/review/show/4968073597?utm_medium=api&utm_source=rss) by Michael E. Shea
 <!-- GOODREADS-LIST:END -->
 
