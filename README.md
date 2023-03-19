@@ -20,8 +20,8 @@ No activity tracked
 
 ## :books: Books I'm Currently Reading
 <!-- GOODREADS-LIST:START -->
+- [Peace Talks (The Dresden Files, #16)](https://www.goodreads.com/review/show/5423476938?utm_medium=api&utm_source=rss) by Jim Butcher
 - [No-Drama Discipline: The Whole-Brain Way to Calm the Chaos and Nurture Your Child's Developing Mind](https://www.goodreads.com/review/show/5240792590?utm_medium=api&utm_source=rss) by Daniel J. Siegel
-- [Skin Game (The Dresden Files, #15)](https://www.goodreads.com/review/show/5369879464?utm_medium=api&utm_source=rss) by Jim Butcher
 <!-- GOODREADS-LIST:END -->
 
 **Have a laugh on me**
