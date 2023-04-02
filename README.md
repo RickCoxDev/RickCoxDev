@@ -20,8 +20,8 @@ No activity tracked
 
 ## :books: Books I'm Currently Reading
 <!-- GOODREADS-LIST:START -->
+- [Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential](https://www.goodreads.com/review/show/4706441077?utm_medium=api&utm_source=rss) by Tiago Forte
 - [Peace Talks (The Dresden Files, #16)](https://www.goodreads.com/review/show/5423476938?utm_medium=api&utm_source=rss) by Jim Butcher
-- [No-Drama Discipline: The Whole-Brain Way to Calm the Chaos and Nurture Your Child's Developing Mind](https://www.goodreads.com/review/show/5240792590?utm_medium=api&utm_source=rss) by Daniel J. Siegel
 <!-- GOODREADS-LIST:END -->
 
 **Have a laugh on me**
