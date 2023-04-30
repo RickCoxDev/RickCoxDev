@@ -20,7 +20,7 @@ No activity tracked
 
 ## :books: Books I'm Currently Reading
 <!-- GOODREADS-LIST:START -->
-- [Battle Ground (The Dresden Files, #17)](https://www.goodreads.com/review/show/5466921404?utm_medium=api&utm_source=rss) by Jim Butcher
+- [The Last Wish (The Witcher, #0.5)](https://www.goodreads.com/review/show/5517091598?utm_medium=api&utm_source=rss) by Andrzej Sapkowski
 - [Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential](https://www.goodreads.com/review/show/4706441077?utm_medium=api&utm_source=rss) by Tiago Forte
 <!-- GOODREADS-LIST:END -->
 
