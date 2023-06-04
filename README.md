@@ -8,7 +8,7 @@
 ## :bar_chart: Weekly Development Breakdown
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
